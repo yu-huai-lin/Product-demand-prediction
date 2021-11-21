@@ -44,8 +44,8 @@ This file contains most of the categorical attributes of products.
 
 | Feature Type | Columns| Analysis |
 |:----|:-----------|:-------|
-| #Categorical | Boxplot, Countplot|
-| #Numerical| Histogram, Correlation|
+| # Categorical | Boxplot, Countplot|
+| # Numerical| Histogram, Correlation|
 
 ### Data Transformation
 
