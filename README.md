@@ -52,21 +52,21 @@ This file contains most of the categorical attributes of products.
 
 | Feature Type | Columns|
 |:----|:-----------|
-| # Categorical | Boxplot, Countplot|
-| # Numerical| Histogram, Correlation|
+| Categorical | Boxplot, Countplot, Analysis on the top categories|
+| Numerical| Histogram, Correlation|
 
 ### Data Transformation
 
 | Columns| Method|
 |:----|:-----------|
-| #Categorical | Target(Mean) Encoding / Threshold|
-| #Numerical| Mix-max scaling |
+| Categorical | Target(Mean) Encoding /Threshold/One-hot|
+| Numerical| Mix-max scaling |
 
 ### Modelling
 
 | Models | Method|
 |:----|:-----------|
-| #MVP | Mean Imputation (Encoding)|
+| #MVP | Mean Imputation|
 | #Baseline Model| Multiple Linear Regression |
 | #Advance Model| Random Forest Regressor |
 
@@ -77,7 +77,7 @@ This file contains most of the categorical attributes of products.
 | #Linear Regression| Coefficient and p-value |
 | #Random Forest| Built-in Feature Importance |
 
-### Outcome
+### Outcome & Error Metric Comparison
 
 | Models |MAE|RMSE|MAPE|
 |:----|:---|:---|:---|
