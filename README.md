@@ -3,6 +3,7 @@
 
 ### General Info
 This project contains datasets and a notebook that aims to analyse and model the historical product data in order to predict sales demand. Overall, the process includes data extraction and transformation, exploratory analysis, feature engineerng, model training and evaludation, and tuning.
+Mainly, the notebook contains 3 outcomes: 1.) MVP 2.) A baseline model using linear regression and target encoding and 3.) A random forest model 
 
 ### Requirements
 
@@ -58,7 +59,7 @@ This file contains most of the categorical attributes of products.
 
 | Columns| Method|
 |:----|:-----------|
-| #Categorical | Target Encoding due to high cardinality|
+| #Categorical | Target(Mean) Encoding / Threshold|
 | #Numerical| Mix-max scaling |
 
 ### Modelling
