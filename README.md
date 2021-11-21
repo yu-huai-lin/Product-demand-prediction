@@ -36,16 +36,16 @@ matplotlib          3.4.3
 To run the solution.ipynb script, you need to meet the above requirements and import the modules and libraries used in the notebook. 
 
 ### Files
-solution.ipynb
+`solution.ipynb`
 this file contains the analysis and model building
 
-historical product popularity.csv
+`historical product popularity.csv`
 this file contains information about product searches and popularity 
 
-historical unit sales.csv
+`historical unit sales.csv`
 this file contains the target variable, which is the number of product unit sold in the past
 
-product articels attributes.csv
+`product articels attributes.csv`
 This file contains most of the categorical attributes of products. 
 
 ### Exploratory Data Analysis
