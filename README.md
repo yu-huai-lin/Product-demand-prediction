@@ -11,8 +11,7 @@ Mainly, the notebook contains 3 outcomes: 1.) a MVP version of the prediction th
 
 python version 3.6
 
-#### Libraries
-Package             Version
+#### Libraries /Package Version
 
 numpy               1.19.5
 
