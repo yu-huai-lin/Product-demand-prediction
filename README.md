@@ -33,7 +33,7 @@ statsmodels         0.12.2
 matplotlib          3.4.3
 
 ### Instructions
-To run the solution.ipynb script, you need to meet the above requirements and import the modules and libraries used in the notebook. 
+To run the solution.ipynb script, you need to meet the above requirements and import the modules and libraries used in the notebook. Please note that the visualisations may not be showing on github.
 
 ### Files
 `solution.ipynb`
