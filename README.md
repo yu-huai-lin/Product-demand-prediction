@@ -11,7 +11,6 @@ python version 3.6
 #### Libraries
 Package             Version
 ------------------- ---------
-
 numpy               1.21.2
 
 packaging           21.0
@@ -50,8 +49,8 @@ This file contains most of the categorical attributes of products.
 
 ### Exploratory Data Analysis
 
-| Feature Type | Columns| Analysis |
-|:----|:-----------|:-------|
+| Feature Type | Columns|
+|:----|:-----------|
 | # Categorical | Boxplot, Countplot|
 | # Numerical| Histogram, Correlation|
 
