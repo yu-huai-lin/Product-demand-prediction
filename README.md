@@ -2,8 +2,8 @@
 ### Predicting Product Sales Demand
 
 ### General Info
-This project contains datasets and a notebook that aims to analyse and model the historical product data in order to predict sales demand. Overall, the process includes data extraction and transformation, exploratory analysis, feature engineerng, model training and evaluation, and tuning.
-Mainly, the notebook contains 3 outcomes: 1.) a MVP version of the prediction that doesn't require modelling 2.) A baseline model using linear regression and target encoding and 3.) A random forest model 
+This project contains datasets and a notebook that aim to analyse and model the historical product data in order to predict sales demand. Overall, the process includes data extraction and transformation, exploratory analysis, feature engineerng, model training and evaluation, and tuning.
+Mainly, the notebook contains 3 outcomes: 1.) a MVP version of the prediction that doesn't require machine learning 2.) A baseline model using linear regression and target encoding and 3.) A random forest model 
 
 ------------------- ---------
 
