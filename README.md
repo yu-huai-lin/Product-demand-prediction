@@ -80,7 +80,7 @@ This file contains most of the categorical attributes of products.
 ### Outcome
 
 | Models |MAE|RMSE|MAPE|
-|:----|:---|:---|:---|:---|
+|:----|:---|:---|:---|
 | #MVP |40.15 |105.54|100.2|
 | #Linear Regression|8.47 |15.8|10.7|
 | #Random Forest|7.36 | 15.23|8.2 |
