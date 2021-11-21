@@ -12,7 +12,7 @@ python version 3.6
 #### Libraries
 Package             Version
 ------------------- ---------
-numpy               1.21.2
+numpy               1.19.5
 
 packaging           21.0
 
@@ -31,6 +31,9 @@ sklearn             0.0
 statsmodels         0.12.2
 
 matplotlib          3.4.3
+
+yellowbrick         1.3.post1
+
 
 ### Instructions
 To run the solution.ipynb script, you need to meet the above requirements and import the modules and libraries used in the notebook. Please note that the visualisations may not be showing on github.
