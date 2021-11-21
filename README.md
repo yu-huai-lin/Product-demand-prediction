@@ -13,7 +13,7 @@ python version 3.6
 
 #### Libraries
 Package             Version
-------------------- ---------
+
 numpy               1.19.5
 
 packaging           21.0
