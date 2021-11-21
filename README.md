@@ -13,15 +13,23 @@ Package             Version
 ------------------- ---------
 
 numpy               1.21.2
+
 packaging           21.0
+
 pandas              1.3.2
+
 plotly              5.2.1
-s3transfer          0.5.0
+
 scikit-learn        0.24.2
+
 scipy               1.7.1
+
 seaborn             0.11.2
+
 sklearn             0.0
+
 statsmodels         0.12.2
+
 matplotlib          3.4.3
 
 ### Instructions
